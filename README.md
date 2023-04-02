@@ -2,7 +2,7 @@
 
 - forgot original git source
 - dotent5.0 source is converted to dotnet7.0
-- In VS, not working >> publish wwwroot & localhost serve working properly (I dont know WHY!)
+- In VS, not working >> ./publish/wwwroot & localhost serve working properly (I dont know WHY!)
 - There is few JSinterop sample and explanation is vague to beginner like me.
    I tried lots and I got this result (those I can rememeber)
 
